@@ -1,2 +1,3 @@
 # .github
-This repository contains information that is publicly accessible to all internet users.
+## Task at hand
+A full-stack mobile app development project aimed at simplifying the college application process by leveraging AI and data analytics to help students make informed decisions.
